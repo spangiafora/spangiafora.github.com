@@ -1,4 +1,4 @@
 spangiafora.github.com
 ======================
 
-Public facing repository
+Public facing repository.
