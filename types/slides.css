@@ -1,0 +1,36 @@
+div.slide    { font-size: 16pt; 
+               visibility: hidden;
+               position: absolute;
+               width: 800px;
+               left: 50%;
+               margin-top: .5in;
+               margin-left: -400px; }
+
+div#first    { visibility: visible; }
+
+div.magazine { margin-top: .5in;
+               width: 100%; 
+               height: 100%; }
+
+button.prev  { position: fixed; 
+               width: 10em;
+               text-align: center;
+               top: 20px;
+               left: 20px; 
+               z-index: 10; }
+
+button.next  { position: fixed; 
+               width: 10em;
+               text-align: center;
+               top: 20px;
+               right: 20px;
+               z-index: 10; }
+
+h2           { color: blue; }
+
+.emphasize   { color: blue; 
+               font-style: italic; }
+
+.highlight   { background-color: yellow; }
+
+.box         { border: 2px solid black; }
